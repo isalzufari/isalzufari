@@ -1,9 +1,9 @@
 # Yuhuuu!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 ## Still a Student  !
-- 🌱 I’m currently learning Everything.
-- 👯 I’m looking to collaborate with other developers. 
-- 🥅 2021 Goals: Learn to build big projects using more tools.
+- 🌱 I’m currently learning Everything but Focus to Web Development.
+- 👯 I’m looking to collaborate project/porfolio with other developers. 
+- 🥅 2022 Goals: Back to basic.
 - 🤣 Fun fact (1) : I make a content with +2k Views. 
 - 🏊‍♂️ Fun fact (2) : I am a part-time selling food. 
 
