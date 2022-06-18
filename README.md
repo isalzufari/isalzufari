@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Everything but Focus to Web Development.
 - 👯 I’m looking to collaborate project/porfolio with other developers. 
 - 🥅 2022 Goals: Back to basic.
-- 🤣 Fun fact (1) : I make a content with +2k Views. 
-- 🏊‍♂️ Fun fact (2) : I am a part-time selling food. 
+- 🤣 Fun fact (1) : I make a content with +2k Views focused to Technology. 
+- 🏊‍♂️ Fun fact (2) : I am a part-time freelancer. 
 
 ### Still Learning:
 
