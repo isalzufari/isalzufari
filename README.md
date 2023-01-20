@@ -4,9 +4,10 @@
 - 🌱 I’m currently learning Everything but Focus to Web Development.
 - 👯 I’m looking to collaborate project/porfolio with other developers. 
 - 🥅 2022 Goals: Back to basic.
-- 🤣 Fun fact (1) : I make a content with +2k Views focused to Technology. 
-- 🏊‍♂️ Fun fact (2) : I am a part-time freelancer. 
+- 🤣 Fun fact (1) : I make a content with +2k Views on <a target="_blank" href="https://www.youtube.com/@thesingkongman">Youtube</a> focused to Technology.
+- 🏊‍♂️ Fun fact (2) : My hobby running, cycling and many more.
 
+### Not the best, but trying to be good software engineer.
 ### Still Learning:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
